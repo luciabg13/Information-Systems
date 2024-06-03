@@ -3,7 +3,7 @@ Backend of the Information Systems Project
 Here, the Dreamhome database can be found.
 Also, the commands to create the database, delete it, insert records and do some queries.
 
-First steps:
+### First steps:
 To initialize the DB, it could be done directly in the SQLite Database with the SQLite Browser and the files in the SQL Code folder or running the script initdb.js, with the help of node.
 
 To delete the DB, it could be done directly in the SQLite Database with the SQLite Browser and the files in the SQL Code folder or running the script dropdb.js, with the help of node.
